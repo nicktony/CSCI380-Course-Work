@@ -3,7 +3,7 @@
 University: Davenport University <br>
 Course Material: Dr. Denton Bobeldyk <br>
 Professor: Dr. Naiwei Liu <br>
-Course: CSCI380 Pattern Recognition
+Course: CSCI380 Computer Vision
 
 * All matlab code is created by me, Nickolaus White, with aid from course assignments listed in each sub-folder (if applicable). 
 * I do not take credit for snippets of code supplied by the assignnment and/or professor (if given to me), though I have
